@@ -28,6 +28,11 @@ I served as the **Team Leader** of a 5-member team. My key responsibilities incl
 - **Night-time screen use** correlates with poor sleep quality and reduced academic focus.
 - Sentiment analysis revealed that negative emotions (e.g., sadness, comparison, burnout) were more prevalent in high-usage groups.
 
+## Dashboard Screenshot
+Here is a preview of our Power BI dashboard:
+
+![Dashboard Screenshot](images/dashboard-screenshot.png)
+
 ## Achievements
 - 🥇 **Ranked 4th** nationally among 6,123 teams.
 - 🎤 Presented during **IBM SkillsBuild Annual Event 2024**.
