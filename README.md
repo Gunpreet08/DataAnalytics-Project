@@ -8,6 +8,27 @@ With the rapid rise in social media consumption, especially among youth, there i
 - The correlation between screen time and emotional health.
 - Public sentiment towards platforms and trends using data.
 
+## Tools & Technologies Used
+- **Power BI** – Dashboard and data visualization
+- **Python (Pandas, Matplotlib, Seaborn)** – Data preprocessing & analysis
+- **NLP** – Sentiment analysis on social media comments
+- **Excel & CSV** – Data cleaning and input
+- **Kaggle** – Dataset source
 
+## My Role
+I served as the **Team Leader** of a 5-member team. My key responsibilities included:
 
+- Guiding the project direction and setting deadlines
+- Handling data preprocessing and cleaning in Python
+- Designing Power BI dashboards
+- Leading the presentation during the IBM SkillsBuild Annual Event 2024 Showcase
  
+## Key Insights
+- Over 60% of individuals report **increased anxiety** due to excessive social media usage.
+- **Night-time screen use** correlates with poor sleep quality and reduced academic focus.
+- Sentiment analysis revealed that negative emotions (e.g., sadness, comparison, burnout) were more prevalent in high-usage groups.
+
+## Achievements
+- 🥇 **Ranked 4th** nationally among 6,123 teams.
+- 🎤 Presented during **IBM SkillsBuild Annual Event 2024**.
+- 🛡️ Project praised for real-world relevance and clean visual storytelling.
